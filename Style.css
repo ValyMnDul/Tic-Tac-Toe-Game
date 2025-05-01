@@ -1,0 +1,91 @@
+body
+{
+background-color: antiquewhite;
+}
+
+#Container
+{
+    display: grid;
+    justify-content: center;
+}
+
+#Game
+{
+    width: 400px;
+    height: 600px;
+    background-color: aqua;
+    margin-top: 80px;
+    border:3px solid black;
+    border-radius: 15px;
+}
+
+#Display
+{
+    height:200px;
+    width:350px;
+    background-color: blue;
+    margin:25px;
+    border:3px solid black;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+}
+
+#Cell_Div
+{
+    height: 344px;
+    background-color:cyan;
+    display: grid;
+    grid-template-columns: repeat(3,100px);
+    gap:5px;
+    row-gap:5px;
+    justify-content: center;
+    border-radius: 15px;
+}
+
+.Cell
+{
+    width:90px;
+    height: 90px;
+    border:3px solid black;
+    border-radius: 10px;
+    background-color: lightblue;
+    color: black;
+    font-size:60px;
+    font-weight: bold;
+}
+
+scoreX
+{
+    font-size: 170px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor:default;
+}
+
+DOSPUNCTOS
+{
+    font-size:170px;
+    cursor:default;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+scoreO
+{
+    font-size:170px;
+    cursor:default;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#Info
+{
+    display: flex;
+    justify-content: center;
+
+}
+
+#turner
+{
+    font-size: 100px;
+    font-weight: bold;
+    cursor: pointer;
+}
