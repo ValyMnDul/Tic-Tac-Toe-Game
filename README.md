@@ -46,3 +46,9 @@ And you're done!
 2. Introduce a game board array (`let board = Array(9).fill(null)`) to handle logic more cleanly
 3. Implement local storage to persist `scores`
 4. Add a `CPU/AI` player mode using Minimax or heuristics
+
+## 📤 Contributing
+
+Pull requests are welcome! If you'd like to contribute or suggest features, feel free to open an issue or fork the repo.
+
+---
