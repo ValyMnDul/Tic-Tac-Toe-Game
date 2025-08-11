@@ -1,7 +1,7 @@
 # 🔒 Security Policy
 
 🛡️ **Current Status:**  
-This application does **not contain any known vulnerabilities** at this time.
+This static application does **not contain any known vulnerabilities** at this time.
 
 🚨 **Found something suspicious?**  
 If you discover a potential security issue, please:
