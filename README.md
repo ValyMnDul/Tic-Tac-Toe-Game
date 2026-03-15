@@ -1,18 +1,18 @@
-# 🕹️ X&O - Classic Tic Tac Toe Game 
+# X&O - Classic Tic Tac Toe Game 
 
 ![Banner](./MD_Assets/Banner.png)
 
 A simple yet dynamic web-based Tic Tac Toe game (X&O) built with pure `HTML`, `CSS`, and `JavaScript`. It's quick, responsive, and features score tracking, player turn indication, and automatic game resets.
 
-## 🚀 Features  
+## Features  
 
-- 🎮 2-player local game (X and O)
-- 🔁 Auto-reset after each round
-- 🧠 Win condition detection for rows, columns, and diagonals
-- 🧮 Scoreboard that resets after 10 wins
-- 🎨 Colorful and responsive UI using grid layouts and modern CSS
+- 2-player local game (X and O)
+- Auto-reset after each round
+- Win condition detection for rows, columns, and diagonals
+- Scoreboard that resets after 10 wins
+- Colorful and responsive UI using grid layouts and modern CSS
 
-## 📦 How to Run
+## How to Run
 
 Clone the repo
 ```bash
@@ -26,7 +26,7 @@ Open `Index.html` in your browser.
 
 And you're done!
 
-## ⚙️ TECH
+## TECH
 ### Frontend
 - `HTML5` Grid Layout to structure the game board and `UI`.
 - `CSS`:
@@ -41,13 +41,13 @@ And you're done!
     - Points tracked using `ScoreX` and `ScoreO`
     - Game auto-resets once a player reaches `10` points
 - Hard-coded button click handlers (C1() through C9()) for individual cell control
-## 🧠 Optimization Ideas (for future)
+## Optimization Ideas (for future)
 1. Refactor to use a loop or array for cells instead of 9 separate functions
 2. Introduce a game board array (`let board = Array(9).fill(null)`) to handle logic more cleanly
 3. Implement local storage to persist `scores`
 4. Add a `CPU/AI` player mode using Minimax or heuristics
 
-## 📤 Contributing
+## Contributing
 
 Pull requests are welcome! If you'd like to contribute or suggest features, feel free to open an issue or fork the repo.
 
