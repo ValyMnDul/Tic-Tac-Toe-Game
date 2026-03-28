@@ -41,14 +41,11 @@ And you're done!
     - Points tracked using `ScoreX` and `ScoreO`
     - Game auto-resets once a player reaches `10` points
 - Hard-coded button click handlers (C1() through C9()) for individual cell control
-## Optimization Ideas (for future)
-1. Refactor to use a loop or array for cells instead of 9 separate functions
-2. Introduce a game board array (`let board = Array(9).fill(null)`) to handle logic more cleanly
-3. Implement local storage to persist `scores`
-4. Add a `CPU/AI` player mode using Minimax or heuristics
 
 ## Contributing
 
 Pull requests are welcome! If you'd like to contribute or suggest features, feel free to open an issue or fork the repo.
 
----
+## Open Source
+
+This project is inder (MIT LICENCE)[https://github.com/valymndul/Tic-Tac-Toe-Game/blob/main/LICENCE.md]
