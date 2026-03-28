@@ -48,4 +48,4 @@ Pull requests are welcome! If you'd like to contribute or suggest features, feel
 
 ## Open Source
 
-This project is inder (MIT LICENCE)[https://github.com/valymndul/Tic-Tac-Toe-Game/blob/main/LICENCE.md]
+This project is inder [MIT LICENCE](https://github.com/ValyMnDul/Tic-Tac-Toe-Game/blob/main/LICENSE.md)
