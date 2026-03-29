@@ -15,6 +15,7 @@ A simple yet dynamic web-based Tic Tac Toe game (X&O) built with pure `HTML`, `C
 ## How to Run
 
 Clone the repo
+
 ```bash
 git clone https://github.com/ValyMnDul/Tic_Tac_Toe_Game.git
 ```
@@ -22,7 +23,7 @@ Enter the "Tic_Tac_Toe_Game" directory
 ```bash
 cd Tic_Tac_Toe_Game
 ```
-Open `Index.html` in your browser.
+Open `index.html` in your browser.
 
 And you're done!
 
