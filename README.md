@@ -25,6 +25,10 @@ cd Tic_Tac_Toe_Game
 ```
 Open `index.html` in your browser.
 
+### OR
+
+Open the attached link!
+
 And you're done!
 
 ## TECH
@@ -49,4 +53,4 @@ Pull requests are welcome! If you'd like to contribute or suggest features, feel
 
 ## Open Source
 
-This project is inder [MIT LICENCE](https://github.com/ValyMnDul/Tic-Tac-Toe-Game/blob/main/LICENSE.md)
+This project is licesed under the [MIT LICENCE](LICENSE.md)
